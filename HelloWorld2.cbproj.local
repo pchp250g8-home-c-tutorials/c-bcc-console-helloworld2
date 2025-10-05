@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025.10.05 13:35:18.788,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025.10.05 13:35:18.839,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>2025.10.05 13:36:12.776,D:\Projects\Programming\C\BDS\Console\InputOutput\HelloWorld2\HelloWorld2PCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025.10.05 13:36:12.786,D:\Projects\Programming\C\BDS\Console\InputOutput\HelloWorld2\File1.c=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>2025.10.05 13:36:12.794,D:\Projects\Programming\C\BDS\Console\InputOutput\HelloWorld2\HelloWorld2.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2025.10.05 13:36:26.646,D:\Projects\Programming\C\BDS\Console\InputOutput\HelloWorld2\HelloWorld2.c=D:\Projects\Programming\C\BDS\Console\InputOutput\HelloWorld2\File1.c</Transaction>
+    <Transaction>2025.10.05 13:36:32.350,D:\Projects\Programming\C\BDS\Console\InputOutput\HelloWorld2\HelloWorld2.cbproj=D:\Projects\Programming\C\BDS\Console\InputOutput\HelloWorld2\HelloWorld2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
